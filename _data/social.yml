@@ -1,0 +1,6 @@
+- title: Email
+  url: mailto://willie37@qq.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/sepp39/
+  icon: fab fa-github
