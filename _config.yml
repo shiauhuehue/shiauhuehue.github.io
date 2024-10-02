@@ -1,11 +1,11 @@
 # Setup
 title: 韩俊辉
-description: 🌃
-url: https://jhh0207.github.io
+description: 🌃 愿思想自由，兼容并包
+url: https://shiauhuehue.github.io
 avatar: /images/tx.jpg
 paginate: 5
 permalink: pretty
-cover_image: /images/bg.jpg
+cover_image: /images/bg-24-10-02.jpg
 
 # Gems
 plugins:
