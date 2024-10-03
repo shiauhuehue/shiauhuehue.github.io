@@ -1,6 +1,9 @@
 - title: Email
-  url: mailto://willie37@qq.com
+  url: mailto://shiauhuehue@qq.com
   icon: fas fa-envelope
+- title: Twitter
+  url: /
+  icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/sepp39/
+  url: https://github.com/shiauhuehue/
   icon: fab fa-github
